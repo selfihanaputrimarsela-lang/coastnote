@@ -1,0 +1,2 @@
+# coastnote
+coastnote monitoring application
